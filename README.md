@@ -129,6 +129,7 @@ print(data[["text", "Sentiment"]].head())
 
 ### STOCK DATA:
 <img width="621" height="546" alt="image" src="https://github.com/user-attachments/assets/5c227978-2d46-4c14-873f-1d1fe07a4dd4" />
+
 ### TWEET BIG:
 <img width="757" height="661" alt="image" src="https://github.com/user-attachments/assets/6c3c6609-8a77-430b-8021-8186a902da2d" />
 <img width="732" height="217" alt="image" src="https://github.com/user-attachments/assets/56f9da84-ab38-4dc0-86c3-666cda9853bd" />
